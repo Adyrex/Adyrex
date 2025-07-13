@@ -36,4 +36,15 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-kumawat-624219287)
 
 > “Hack the planet. Defend the future.” 🌍🛡
+>
+> ---
+
+## ☕ Support
+
+Liked my work or learned something cool?
+Consider [buying me a coffee](https://coff.ee/cyberaditya) to fuel my caffeine-powered learning journey! 🚀  
+Every sip counts 😄❤️
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coff.ee/cyberaditya)
+
 
