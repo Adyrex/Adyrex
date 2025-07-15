@@ -32,7 +32,7 @@
 ---
 
 ### 💬 Let's Connect
-- 📧 Email: cloudy3401@gmail.com
+- 📧 Email: adyrexxx@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-kumawat-624219287)
 
 > “Hack the planet. Defend the future.” 🌍🛡
